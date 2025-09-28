@@ -4,7 +4,7 @@
 
 #### 🌱 About Me
 - Learning web development for both front-end and back-end.
-- Tech stack: HTML, CSS, JavaScript, Node.js, React.js, SQL.
+- Tech stack: HTML, CSS, JavaScript, Node.js, React.js, MongoDB.
 
 #### 🚀 Goals
 - Contribute to open source.
